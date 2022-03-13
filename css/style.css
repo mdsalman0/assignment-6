@@ -1,0 +1,14 @@
+/* empty input  */
+#empty-input-error{
+    display: none;
+  }
+   
+/* unpredictable input error  */
+#input-error{
+    display: none;
+  }
+  
+/* loading spinner  */
+#spinner{
+    display: none;
+    }
